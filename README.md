@@ -13,4 +13,4 @@ A simple todo list app built with HTML, CSS and JavaScript.
 - CSS
 - JavaScript (DOM, localStorage)
 
-## Live: 
+## Live: annaeugeniyevna-to-do-list.netlify.app
